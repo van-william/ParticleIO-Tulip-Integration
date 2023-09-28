@@ -11,7 +11,7 @@ Creating a machine in Tulip requires the following:
 
 **API Credentials**
 Go to settings --> API Tokens to create an API token with the ability to read / write to machines and attributes
-<img src="./images/api_token.png" height=40% width= auto>
+<img src="./images/api_token.png" height=25% width= auto>
 
 **Machine Type**
 Go to Shop Floor --> Machines --> Machine Types and create a new Machine Type. Create machine attributes to reflect the events published from ParticleIO. NOTE: Data type must be string. 
