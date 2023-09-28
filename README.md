@@ -87,6 +87,7 @@ Congrats! This is all you need to get the integration working end-to-end. Your d
 
 ### Confirming the data reaches Tulip
 To ensure that the data is successfully being published to Tulip, you can view machine updates in the Shop Floor --> Machines area
+
 <br/>
 <img src="./images/machine_attribute_confirm.png">
 
