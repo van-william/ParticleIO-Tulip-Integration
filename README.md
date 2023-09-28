@@ -16,11 +16,13 @@ Go to settings --> API Tokens to create an API token with the ability to read / 
 
 **Machine Type**
 Go to Shop Floor --> Machines --> Machine Types and create a new Machine Type. Create machine attributes to reflect the events published from ParticleIO. NOTE: Data type must be string. 
-![image.png](https://cdn.document360.io/7c6ff534-cad3-4fc8-9583-912c4016362f/Images/Documentation/image%28204%29.png){height="" width=""}
+<br/>
+<img src="./images/machine_type.png" >
 
 **Machine**
 Create a new machine under the newly created machine type; under configuration, map the machine attribute to the Tulip Machine API and note the MachineId and AttributeId
-![image.png](https://cdn.document360.io/7c6ff534-cad3-4fc8-9583-912c4016362f/Images/Documentation/image%28205%29.png){height="" width=""}
+<br/>
+<img src="./images/machine_attribute.png">
 
 
 ### Enabling the integration
@@ -85,8 +87,8 @@ Congrats! This is all you need to get the integration working end-to-end. Your d
 
 ### Confirming the data reaches Tulip
 To ensure that the data is successfully being published to Tulip, you can view machine updates in the Shop Floor --> Machines area
-
-![image.png](https://cdn.document360.io/7c6ff534-cad3-4fc8-9583-912c4016362f/Images/Documentation/image%28202%29.png){height="" width=""}
+<br/>
+<img src="./images/machine_attribute_confirm.png">
 
 NOTE: The attribute may have to be in string format and then converted later.
 
