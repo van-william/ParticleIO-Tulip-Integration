@@ -11,7 +11,7 @@ Creating a machine in Tulip requires the following:
 
 **API Credentials**
 Go to settings --> API Tokens to create an API token with the ability to read / write to machines and attributes
-
+<br/>
 <img src="./images/api_token.png" height=250px width= auto>
 
 **Machine Type**
