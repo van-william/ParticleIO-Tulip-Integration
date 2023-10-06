@@ -56,6 +56,7 @@ You'll need to click the Advanced Settings area to fill out the custom JSON form
 }
 ```
 **Authentication**
+
 Finally, you'll need to authenticate to Tulip with the api key and secret. Screenshot below for example.
 
 *In this case, Basic Auth is used.*
